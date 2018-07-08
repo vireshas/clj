@@ -60,11 +60,11 @@
   </dependencies>
 
   <build>
-        <resources>
-            <resource>
-                <directory>src/main/clojure</directory>
-            </resource>
-        </resources>
+    <resources>
+        <resource>
+            <directory>src/main/clojure</directory>
+        </resource>
+    </resources>
 
     <finalName>ClojureHystrixJava</finalName>
     <plugins>
